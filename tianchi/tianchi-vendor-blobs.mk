@@ -161,6 +161,10 @@ vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/f
 vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
 vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
 vendor/sony/tianchi/proprietary/etc/firmware/cyttsp4_fw.bin:system/etc/firmware/cyttsp4_fw.bin \
+vendor/sony/tianchi/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
+vendor/sony/tianchi/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+vendor/sony/tianchi/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
+vendor/sony/tianchi/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
 vendor/sony/tianchi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
 vendor/sony/tianchi/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
 vendor/sony/tianchi/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
