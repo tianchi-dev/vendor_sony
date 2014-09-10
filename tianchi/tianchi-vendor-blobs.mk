@@ -187,6 +187,7 @@ vendor/sony/tianchi/proprietary/lib/libmorpho_scene_detector.so:system/lib/libmo
 vendor/sony/tianchi/proprietary/lib/libmorpho_super_resolution.so:system/lib/libmorpho_super_resolution.so \
 vendor/sony/tianchi/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
 vendor/sony/tianchi/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
+vendor/sony/tianchi/proprietary/vendor/lib/libqc-opt.so:system/lib/libqc-opt.so \
 vendor/sony/tianchi/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
 vendor/sony/tianchi/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
 vendor/sony/tianchi/proprietary/lib/libril.so:system/lib/libril.so \
