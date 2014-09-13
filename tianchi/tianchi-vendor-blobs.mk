@@ -189,6 +189,7 @@ vendor/sony/tianchi/proprietary/lib/libmorpho_object_tracker2.so:system/lib/libm
 vendor/sony/tianchi/proprietary/lib/libmorpho_posture_detect.so:system/lib/libmorpho_posture_detect.so \
 vendor/sony/tianchi/proprietary/lib/libmorpho_scene_detector.so:system/lib/libmorpho_scene_detector.so \
 vendor/sony/tianchi/proprietary/lib/libmorpho_super_resolution.so:system/lib/libmorpho_super_resolution.so \
+vendor/sony/tianchi/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
 vendor/sony/tianchi/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
 vendor/sony/tianchi/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
 vendor/sony/tianchi/proprietary/vendor/lib/libqc-opt.so:system/lib/libqc-opt.so \
